@@ -1,5 +1,7 @@
 # [2016-03-21] Challenge #259 [Easy] Clarence the Slow Typist
 
+[See this on reddit](https://www.reddit.com/r/dailyprogrammer/comments/4bc3el/20160321_challenge_259_easy_clarence_the_slow/)
+
 ## Description
 Clarence is a data entry clerk who works at an internet service provider. His job is to manually enter the IP addresses of all of the ISP's customers into the database. He does this using a keypad which has the following layout:
 
